@@ -2,5 +2,6 @@
 using namespace std;
 int main()
 {
-    int = 5;
+    int i = 5;
+    int j = 12;
 }
